@@ -1,0 +1,11 @@
+
+over the browser:
+the user fill the input text field 
+and click on the submit button
+end note
+browser->server: HTTP GET https://studies.cs.helsinki.fi/exampleapp/new_note_spa
+server-->browser: JSON code
+note over browser: 
+browser executes the event handler on the submit button
+that renders notes to display
+end note
